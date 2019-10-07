@@ -43,7 +43,7 @@ public:
     ~ZooManagementSystem();
 
     /*
-    The Author static method should return your UPI, e.g. "mgre411".
+    The Author static method 
     */
     static std::string author();
 
