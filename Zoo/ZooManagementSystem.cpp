@@ -28,7 +28,7 @@ ZooManagementSystem::~ZooManagementSystem() {
 }
 
 string ZooManagementSystem::author() {
-//this function has no input and outputs a string with the author's UPI.
+//this function has no input and outputs a string with the author's ID.
     return "vkri801";
 }
 
