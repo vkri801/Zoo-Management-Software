@@ -3,7 +3,7 @@
 #include <cstdlib>
 #include <vector>
 
-// flags to enable tests for the later parts of the assignment
+
  #define ENABLE_T2_TESTS
  #define ENABLE_T3_TESTS
 
