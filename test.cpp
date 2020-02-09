@@ -322,9 +322,7 @@ TestResult test_OtterBasicFeeding() {
 
 #ifdef ENABLE_T3_TESTS
 /*
-Check the student has implemented some return value for the ZooManagementSystem::Author() static
-method. Doesn't check if the value is a valid UPI, just that something of about the right size is
-returned.
+
 */
 TestResult test_UPI() {
     string upi = ZooManagementSystem::author();
